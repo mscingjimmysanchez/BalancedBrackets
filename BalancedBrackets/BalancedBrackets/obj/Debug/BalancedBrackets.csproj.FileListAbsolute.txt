@@ -1,0 +1,7 @@
+D:\Documents\Deejay\BalancedBrackets\BalancedBrackets\bin\Debug\BalancedBrackets.exe.config
+D:\Documents\Deejay\BalancedBrackets\BalancedBrackets\bin\Debug\BalancedBrackets.exe
+D:\Documents\Deejay\BalancedBrackets\BalancedBrackets\bin\Debug\BalancedBrackets.pdb
+D:\Documents\Deejay\BalancedBrackets\BalancedBrackets\obj\Debug\BalancedBrackets.csprojAssemblyReference.cache
+D:\Documents\Deejay\BalancedBrackets\BalancedBrackets\obj\Debug\BalancedBrackets.csproj.CoreCompileInputs.cache
+D:\Documents\Deejay\BalancedBrackets\BalancedBrackets\obj\Debug\BalancedBrackets.exe
+D:\Documents\Deejay\BalancedBrackets\BalancedBrackets\obj\Debug\BalancedBrackets.pdb
